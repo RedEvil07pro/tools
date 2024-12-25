@@ -38,7 +38,7 @@ Se hai `git` installato, puoi clonare direttamente il repository. In alternativa
 
 ###### Per eseguire il tool basta digitare: ethical
 
-####### Se il comando "ethical" non funziona basta fare il comando: ```cd /home/(nome_utente)/ethical_hacking_tool```, e poi fare il comando: ```chmod +x ./ethical_hacking_tool.sh```
+####### Se il comando "ethical" non funziona basta fare il comando: ```bash cd /home/(nome_utente)/ethical_hacking_tool```, e poi fare il comando: ```bash chmod +x ./ethical_hacking_tool.sh```
 
 
 ```bash
