@@ -32,13 +32,13 @@ Se hai `git` installato, puoi clonare direttamente il repository. In alternativa
 
 #### Usando Git:
 
-##### Prima di eseguire lo script, è necessario renderlo eseguibile. Per farlo, esegui il seguente comando: chmod +x install.sh
+## Prima di eseguire lo script, è necessario renderlo eseguibile. Per farlo, esegui il seguente comando: chmod +x install.sh
 
-###### Esegui lo script: ./install.sh
+### Esegui lo script: ./install.sh
 
 ###### Per eseguire il tool basta digitare: ethical
 
-####### Se il comando "ethical" non funziona basta fare il comando: `cd /home/(nome_utente)/ethical_hacking_tool`, e poi fare il comando: `chmod +x ./ethical_hacking_tool.sh`
+####### Se il comando "ethical" non funziona basta fare il comando: ```cd /home/(nome_utente)/ethical_hacking_tool```, e poi fare il comando: ```chmod +x ./ethical_hacking_tool.sh```
 
 
 ```bash
